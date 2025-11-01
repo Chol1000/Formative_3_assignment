@@ -160,15 +160,6 @@ This project demonstrates:
 - Data visualization and interpretation skills
 - Mathematical modeling of real-world phenomena
 
-## Future Extensions
-
-Potential improvements and extensions:
-- Implementation of other probability distributions
-- Advanced Bayesian methods (MCMC, variational inference)
-- Comparison with modern optimization algorithms (Adam, RMSprop)
-- Cross-validation and model evaluation metrics
-- Interactive web-based visualizations
-
 ## Author
 
 This project was completed as part of the Formative 3 assignment, demonstrating comprehensive understanding of probability theory, Bayesian statistics, and optimization algorithms through both theoretical analysis and practical implementation.
