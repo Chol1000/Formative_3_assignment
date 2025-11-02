@@ -11,6 +11,7 @@ Formative_3_assignment/
 ├── README.md                    # This file
 ├── main_notebook_.ipynb         # Main Jupyter notebook with all implementations
 ├── Part3_Manual_Calculations.pdf # Manual gradient descent calculations
+├── Group_Contributions.pdf      # Team member contributions documentation
 ├── data/                        # Dataset directory
 │   ├── StudentsPerformance.csv  # Student performance dataset
 │   └── IMDB Dataset.csv         # IMDB movie reviews dataset
