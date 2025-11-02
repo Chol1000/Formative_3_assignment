@@ -10,16 +10,16 @@ This project implements key concepts in probability theory and machine learning,
 Formative_3_assignment/
 ├── README.md                    # This file
 ├── main_notebook_.ipynb         # Main Jupyter notebook with all implementations
-├── Iterations_combined.pdf      # Manual gradient descent calculations
+├── Part3_Manual_Calculations.pdf # Manual gradient descent calculations
 ├── data/                        # Dataset directory
 │   ├── StudentsPerformance.csv  # Student performance dataset
 │   └── IMDB Dataset.csv         # IMDB movie reviews dataset
 └── figures/                     # Generated visualizations
-    ├── 3D_surface_plot.png      # 3D visualization of bivariate normal distribution
-    ├── contour_plot.png         # Contour plot of bivariate normal distribution
-    ├── Bar_Plot_for_Posterior_Probabilities.png  # Bayesian analysis results
-    ├── Error_over_iterations.png # Gradient descent error visualization
-    └── m_and b_over_iterations.png # Parameter evolution visualization
+    ├── part1_3d_surface.png     # 3D visualization of bivariate normal distribution
+    ├── part1_contour_plot.png   # Contour plot of bivariate normal distribution
+    ├── part2_bayes_probabilities.png # Bayesian analysis results
+    ├── part4_error_over_iterations.png # Gradient descent error visualization
+    └── part4_parameters_over_iterations.png # Parameter evolution visualization
 ```
 
 ## Assignment Components
@@ -144,7 +144,7 @@ Formative_3_assignment/
 3. **View Results**:
    - Open the Jupyter notebook for interactive exploration
    - Check the `figures/` directory for generated visualizations
-   - Review `Iterations_combined.pdf` for manual calculations
+   - Review `Part3_Manual_Calculations.pdf` for manual calculations
 
 ## Data Sources
 
